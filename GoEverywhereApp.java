@@ -4,7 +4,7 @@
  *Programmer: Michael Labuda
  *ULID: mllabud
  *
- *Date: Mar 25, 2018
+ *
  *
  *Class IT 178
  *
